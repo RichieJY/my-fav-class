@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&display=swap');
+
+body {
+   background-image: url('https://venturebeat.com/wp-content/uploads/2017/05/dayz.jpg');
+  margin: 15px;
+  padding: 15px;
+  border: solid 2px gold;
+  text-align: right;
+}
+
+form {
+  text-align: center
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+h2 {
+  color: red;
+  text-align: right;
+}
+h4 {
+  color: gold;
+  
+}
+
+p { 
+  font: size: 24px; color: white;
+}
+
+h2 {
+  text-align: right;
+}
+
+h4 {
+  text-align: right;
+}
+
+p {
+  text-align: right;
+  funnel-display-<uniquifier> {
+  font-family: "Funnel Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}}
